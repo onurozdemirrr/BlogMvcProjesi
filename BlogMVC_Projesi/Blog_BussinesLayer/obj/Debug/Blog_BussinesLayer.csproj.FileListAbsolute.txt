@@ -1,0 +1,46 @@
+C:\Users\pc\source\repos\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\Blog_BussinesLayer.dll.config
+C:\Users\pc\source\repos\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\Blog_BussinesLayer.dll
+C:\Users\pc\source\repos\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\Blog_BussinesLayer.pdb
+C:\Users\pc\source\repos\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\Blog_DataAccessLayer.dll
+C:\Users\pc\source\repos\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\Entities.dll
+C:\Users\pc\source\repos\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\EntityFramework.dll
+C:\Users\pc\source\repos\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\source\repos\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\Blog_DataAccessLayer.pdb
+C:\Users\pc\source\repos\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\Blog_DataAccessLayer.dll.config
+C:\Users\pc\source\repos\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\Entities.pdb
+C:\Users\pc\source\repos\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\EntityFramework.xml
+C:\Users\pc\source\repos\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\source\repos\BlogMVC_Projesi\Blog_BussinesLayer\obj\Debug\Blog_BussinesLayer.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\BlogMVC_Projesi\Blog_BussinesLayer\obj\Debug\Blog_BussinesLayer.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\BlogMVC_Projesi\Blog_BussinesLayer\obj\Debug\Blog_BussinesLayer.csproj.CopyComplete
+C:\Users\pc\source\repos\BlogMVC_Projesi\Blog_BussinesLayer\obj\Debug\Blog_BussinesLayer.dll
+C:\Users\pc\source\repos\BlogMVC_Projesi\Blog_BussinesLayer\obj\Debug\Blog_BussinesLayer.pdb
+C:\Users\pc\source\repos\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\FakeData.dll
+C:\Users\pc\source\repos\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\FakeData.pdb
+C:\Users\pc\source\repos\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\Blog_Common.dll
+C:\Users\pc\source\repos\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\Blog_Common.pdb
+C:\Users\pc\source\repos\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\Blog_Core.dll
+C:\Users\pc\source\repos\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\Blog_Core.pdb
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\Blog_BussinesLayer.dll.config
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\Blog_BussinesLayer.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\Blog_BussinesLayer.pdb
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\Blog_Common.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\Blog_Core.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\Blog_DataAccessLayer.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\Entities.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\EntityFramework.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\FakeData.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\Blog_Common.pdb
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\Blog_Core.pdb
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\Blog_DataAccessLayer.pdb
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\Blog_DataAccessLayer.dll.config
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\Entities.pdb
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\EntityFramework.xml
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi\Blog_BussinesLayer\bin\Debug\FakeData.pdb
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi\Blog_BussinesLayer\obj\Debug\Blog_BussinesLayer.csproj.AssemblyReference.cache
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi\Blog_BussinesLayer\obj\Debug\Blog_BussinesLayer.csproj.CoreCompileInputs.cache
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi\Blog_BussinesLayer\obj\Debug\Blog_BussinesLayer.csproj.CopyComplete
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi\Blog_BussinesLayer\obj\Debug\Blog_BussinesLayer.dll
+C:\Users\AKSAM YAZILIM\Desktop\BlogMVC_Projesi\Blog_BussinesLayer\obj\Debug\Blog_BussinesLayer.pdb

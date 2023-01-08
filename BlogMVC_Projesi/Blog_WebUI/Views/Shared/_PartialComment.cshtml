@@ -1,0 +1,63 @@
+﻿@* Burada yorumlar listeleneceği için ilgili Note'a ait yorumları buraya getirmem gerekecek. Bu durumda Model olarak Comment'leri burada yakalamam gerekir. *@
+
+@using Entities
+@model List<Comment>
+@using Blog_WebUI.Models
+
+@{
+    BlogUser user = CurrentSession.User;
+}
+
+@foreach (Comment comment in Model)
+{
+    <div class="media">
+        <div>
+            <span class="glyphicon glyphicon-comment"></span>
+        </div>
+        <div class="media-body">
+            <div>
+                <span class="col-md-10" id="comment_text_@comment.Id" contenteditable="false">
+                    @comment.Text
+                </span>
+
+                @if (user != null && comment.Owner.Id == user.Id)
+                {
+                    <span class="col-md-2">
+                        <button type="button" class="btn btn-warning btn-xs" data-edit-mode="false" onclick="doComment(this, 'edit-clicked', '@comment.Id', '#comment_text_@comment.Id')"> <span class="glyphicon glyphicon-edit"></span></button>
+
+                        <button type="button" class="btn btn-danger btn-xs" onclick="doComment(this, 'delete-clicked', '@comment.Id', '')"> <span class="glyphicon glyphicon-trash"></span></button>
+                    </span>
+                }
+
+                <small class="col-md-12 text-center">
+                    <span class="glyphicon glyphicon-time"></span>
+                    @comment.ModifiedDate
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                    <span class="glyphicon glyphicon-user"></span>
+                    @comment.Owner.Username
+                </small>
+            </div>
+        </div>
+    </div>
+    <hr />
+}
+
+@* Yorum yapmak için sisteme login olmuş bir kullanıcı olması gerekiyor. Eğer kullanıcı login olmadıysa yeni yorum eklemek için ilgili kodların ve textbox ve butonun görünmemesi gerekiyor. *@
+
+@if (user != null)
+{
+    // Kullanıcı login olduğu için yani sessionda bir kullanıcı olduğu için buradaki kodlar çalışacak ve modal.popup ya da yorum sayfasında ilgili textbox ve buton görünecek.
+    <div class="row">
+        <div class="col-md-12"> <hr /> </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="input-group">
+                <input type="text" id="new_comment_text" class="form-control" placeholder="Yorumunuz..."/>
+                <span class="input-group-btn">
+                    <button class="btn btn-success" type="button" onclick="doComment(this, 'new-clicked', -1, '')"> <span class="glyphicon glyphicon-send"> Ekle</span></button>
+                </span>
+            </div>
+        </div>
+    </div>
+}

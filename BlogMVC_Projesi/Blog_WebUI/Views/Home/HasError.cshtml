@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewBag.Title = "Hata Oluştu";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row col-lg-12 col-lg-offset-2" style="margin-top:160px">
+    <div class="col-md-8 col-md-offset-2">
+        @{ 
+            Exception ex = null;
+            if (TempData["LastError"] != null)
+            {
+                ex = TempData["LastError"] as Exception;
+            }
+        }
+
+        <h1><span class="glyphicon glyphicon-remove"></span>Hata Oluştu!</h1>
+        <p>
+            <br />
+            Hata oluştu, lütfen site yöneticisi ile iletişime geçiniz.
+            <br /><br /><br />
+            @if (ex != null)
+            {
+                <strong> Hata Detayı :</strong>
+                @ex.Message
+            }
+        <br /><br />
+            @Bootstrap.LinkButton("/Home/Index", "default", "", "", "home", "Anasayfaya Git")
+
+            @Bootstrap.LinkButton("mailto:onur5234@windowslive.com", "primary", "", "", "envelope", "E-posta Gönder")
+        </p>
+    </div>
+</div>
+
